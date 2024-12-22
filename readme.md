@@ -33,7 +33,7 @@ python secintel_llm_scraper.py
 Maximum number of results to fetch per keyword:
 
 ```sh
-python secintel_llm_scraper.py --max_range 20
+python secintel_llm_scraper.py --max_results 20
 ```
 
 ### Display Collected Papers
