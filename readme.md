@@ -29,7 +29,7 @@ To fetch the latest papers related to LLM security, run:
 python secintel_llm_scraper.py
 ```
 
-### Fetch Papers (max range)
+### Fetch Papers (max results)
 Maximum number of results to fetch per keyword:
 
 ```sh
